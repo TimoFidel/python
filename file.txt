@@ -1,4 +1,4 @@
 Hi,
-Hello world.
-This file is for testing purposes.
+Hello world
+This file is for testing purpose
 Good Luck!
